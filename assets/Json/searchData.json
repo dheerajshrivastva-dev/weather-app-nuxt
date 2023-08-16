@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Patna",
+    "place_id": "patna",
+    "adm_area1": "Bihar",
+    "adm_area2": "Patna",
+    "country": "India",
+    "lat": "25.59408N",
+    "lon": "85.13563E",
+    "timezone": "Asia/Kolkata",
+    "type": "settlement"
+  },
+  {
+    "name": "Patnāgarh",
+    "place_id": "patnagarh",
+    "adm_area1": "Odisha",
+    "adm_area2": "Balangir",
+    "country": "India",
+    "lat": "20.70833N",
+    "lon": "83.13263E",
+    "timezone": "Asia/Kolkata",
+    "type": "settlement"
+  },
+  {
+    "name": "Putnam",
+    "place_id": "putnam",
+    "adm_area1": "Connecticut",
+    "adm_area2": "Windham",
+    "country": "United States of America",
+    "lat": "41.9151N",
+    "lon": "71.90896W",
+    "timezone": "America/New_York",
+    "type": "settlement"
+  },
+  {
+    "name": "Patnanungan",
+    "place_id": "patnanungan",
+    "adm_area1": "Calabarzon",
+    "adm_area2": "Quezon",
+    "country": "Philippines",
+    "lat": "14.78333N",
+    "lon": "122.18333E",
+    "timezone": "Asia/Manila",
+    "type": "settlement"
+  },
+  {
+    "name": "Patna",
+    "place_id": "patna-2640574",
+    "adm_area1": "Scotland",
+    "adm_area2": "East Ayrshire",
+    "country": "United Kingdom",
+    "lat": "55.36406N",
+    "lon": "4.50594W",
+    "timezone": "Europe/London",
+    "type": "settlement"
+  },
+  {
+    "name": "Pātna",
+    "place_id": "patna-1192101",
+    "adm_area1": "Rajshahi Division",
+    "adm_area2": "Naogaon District",
+    "country": "Bangladesh",
+    "lat": "24.77449N",
+    "lon": "88.81553E",
+    "timezone": "Asia/Dhaka",
+    "type": "settlement"
+  },
+  {
+    "name": "Patnāpur",
+    "place_id": "patnapur-10529909",
+    "adm_area1": "Telangana",
+    "adm_area2": "Adilabad",
+    "country": "India",
+    "lat": "19.46566N",
+    "lon": "78.90521E",
+    "timezone": "Asia/Kolkata",
+    "type": "settlement"
+  },
+  {
+    "name": "Patna Karkha",
+    "place_id": "patna-karkha-10499081",
+    "adm_area1": "State of Uttar Pradesh",
+    "adm_area2": "Firozabad",
+    "country": "India",
+    "lat": "26.95285N",
+    "lon": "78.62428E",
+    "timezone": "Asia/Kolkata",
+    "type": "settlement"
+  },
+  {
+    "name": "Pātna",
+    "place_id": "patna-1192102",
+    "adm_area1": "Khulna",
+    "adm_area2": "Narail District",
+    "country": "Bangladesh",
+    "lat": "23.04984N",
+    "lon": "89.68346E",
+    "timezone": "Asia/Dhaka",
+    "type": "settlement"
+  },
+  {
+    "name": "Patnakhora",
+    "place_id": "patnakhora-7486994",
+    "adm_area1": "Rangpur Division",
+    "adm_area2": "Panchagarh District",
+    "country": "Bangladesh",
+    "lat": "26.34505N",
+    "lon": "88.47112E",
+    "timezone": "Asia/Dhaka",
+    "type": "settlement"
+  }
+]
