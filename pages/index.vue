@@ -53,7 +53,7 @@
           <div class="flex justify-center items-center">
             <img
               class="object-cover object-center max-h-28"
-              :src="`/_nuxt/assets/${getImageIndex(currentData?.cloud_cover)}.png`"
+              :src="`/images/${getImageIndex(currentData?.cloud_cover)}.png`"
               alt="Card image"
             />
           </div>
@@ -61,8 +61,8 @@
             <p class="text-center">{{ todayString }}</p>
             <p class="py-6 text-center text-5xl font-bold">{{ currentData?.temperature }}&#xb0;</p>
             <p class="text-center pb-4">{{ currentData?.summary }}</p>
-            <div class="flex flex-row justify-center gap-1 align-middle"><span class="w-50 text-right">Wind</span> <spna>|</spna> <span class="w-50">{{ currentData?.wind?.speed }} m/s</span></div>
-            <div class="flex flex-row justify-center gap-1"><span class="w-50 text-right">Cloud</span> <spna>|</spna> <span class="w-50">{{ currentData?.cloud_cover }}%</span></div>
+            <div class="flex flex-row justify-center gap-1 align-middle"><span class="w-50 text-right">Wind</span> <span>|</span> <span class="w-50">{{ currentData?.wind?.speed }} m/s</span></div>
+            <div class="flex flex-row justify-center gap-1"><span class="w-50 text-right">Cloud</span> <span>|</span> <span class="w-50">{{ currentData?.cloud_cover }}%</span></div>
           </div>
         </div>
         <div class="card-b mt-10 shadow-lg rounded-lg overflow-hidden hover:shadow-2xl transition">

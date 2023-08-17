@@ -16,7 +16,7 @@ interface DayWidgeProps {
 
 const props = defineProps<DayWidgeProps>();
 
-const image = ref<string>(`/_nuxt/assets/weather/${props.iconIndex}.png`)
+const image = ref<string>(`/images/weather/${props.iconIndex}.png`)
 
 </script>
 <style scoped>
