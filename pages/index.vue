@@ -53,7 +53,7 @@
           <div class="flex justify-center items-center">
             <img
               class="object-cover object-center max-h-28"
-              :src="`/images/${getImageIndex(currentData?.cloud_cover)}.png`"
+              :src="`./images/${getImageIndex(currentData?.cloud_cover)}.png`"
               alt="Card image"
             />
           </div>

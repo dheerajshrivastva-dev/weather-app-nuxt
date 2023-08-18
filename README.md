@@ -101,3 +101,6 @@ In Nuxt 3, there are two types of directories that can be used for assets.
     npx serve .output/public
     ```
     After running these commands, you can deploy the contents of the .output/public directory as your static website.
+
+    ## GithubPages deploy
+    visit this link: https://github.com/lucpotage/nuxt-github-pages

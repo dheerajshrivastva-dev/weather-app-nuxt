@@ -10,6 +10,8 @@ export default defineNuxtConfig({
     },
   },
   app: {
+    baseURL: '/weather-app-nuxt/', // baseURL: '/<repository>/',
+    buildAssetsDir: 'assets', // don't use "_" at the begining of the folder name to avoids nojkill conflict
     head: {
       title: 'Weather App',
       meta: [
