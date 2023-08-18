@@ -1,0 +1,1 @@
+import{_ as t,l as _,K as s,k as n}from"./entry.bf7873a9.js";const a={},c={class:"main-content bg-slate-600 scroll-smooth"};function o(e,l){return n(),_("main",c,[s(e.$slots,"default",{},void 0,!0)])}const r=t(a,[["render",o],["__scopeId","data-v-cc532a48"]]);export{r as default};
